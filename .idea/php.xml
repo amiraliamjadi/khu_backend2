@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/websocket/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/websocket/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/websocket/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/websocket/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/websocket/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/websocket/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/websocket/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/websocket/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/websocket/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/websocket/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/websocket/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/websocket/vendor/composer" />
+      <path value="$PROJECT_DIR$/websocket/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/websocket/vendor/ratchet/rfc6455" />
+    </include_path>
+  </component>
+</project>
